@@ -1,6 +1,17 @@
 Cheep-Delala
 "Cheap Delala" is a Java project that serves as a computer application aimed at connecting homeowners with potential renters or buyers. The primary objective of this application is to facilitate the process of finding affordable housing options for seekers while allowing homeowners to list their properties conveniently.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/screenshot4.jpg" alt="Screenshot 4" width="300"></td>
+    <td><img src="images/screenshot7.jpg" alt="Screenshot 7" width="300"></td>
+    <td><img src="images/screenshot6.jpg" alt="Screenshot 6" width="300"></td>
+    <td></td> <!-- This is an empty cell to maintain the layout -->
+  </tr>
+</table>
+
 Key features of the "Cheap Delala" Java project include:
 
 User Authentication and Authorization: Users can create accounts and log in securely. The application implements authentication mechanisms to ensure that only authorized users can access certain features.
