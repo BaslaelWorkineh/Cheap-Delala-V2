@@ -5,9 +5,7 @@ Cheep-Delala
 
 <table>
   <tr>
-    <td><img src="images/screenshot4.jpg" alt="Screenshot 4" width="300"></td>
-    <td><img src="images/screenshot7.jpg" alt="Screenshot 7" width="300"></td>
-    <td><img src="images/screenshot6.jpg" alt="Screenshot 6" width="300"></td>
+    <td><img src="images/screenshot1.png" alt="Screenshot 4" width="300"></td>
     <td></td> <!-- This is an empty cell to maintain the layout -->
   </tr>
 </table>
