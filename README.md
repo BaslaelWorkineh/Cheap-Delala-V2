@@ -1,5 +1,5 @@
 Cheep-Delala
-"Cheap Delala" is a Java project that serves as a computer application aimed at connecting homeowners with potential renters or buyers. The primary objective of this application is to facilitate the process of finding affordable housing options for seekers while allowing homeowners to list their properties conveniently.
+"Cheap Delala" is a Java and MERN project that serves as a computer application aimed at connecting homeowners with potential renters or buyers. The primary objective of this application is to facilitate the process of finding affordable housing options for seekers while allowing homeowners to list their properties conveniently.
 
 ## Screenshots
 
